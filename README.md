@@ -1,6 +1,7 @@
 Почему-то не могу синхринизировать проект юнит теста с основным и загрузить его на гит так что напишу здсь 1 тест для примера:
 Пример юнит теста для box:
 public class BoxTests
+
 {
     [Fact]
     public void Constructor_ShouldInitializeProperties()
